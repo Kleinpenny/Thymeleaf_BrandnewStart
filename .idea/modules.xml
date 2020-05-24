@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/DataScienceAufgabe/DataScienceAufgabe.iml" filepath="$PROJECT_DIR$/DataScienceAufgabe/DataScienceAufgabe.iml" />
+      <module fileurl="file://$PROJECT_DIR$/GrosseZahl2/GrosseZahl2.iml" filepath="$PROJECT_DIR$/GrosseZahl2/GrosseZahl2.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Java2Aufgabe/Java2Aufgabe.iml" filepath="$PROJECT_DIR$/Java2Aufgabe/Java2Aufgabe.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Modellierung_Aufgabe/Modellierung_Aufgabe.iml" filepath="$PROJECT_DIR$/Modellierung_Aufgabe/Modellierung_Aufgabe.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Practice/Practice.iml" filepath="$PROJECT_DIR$/Practice/Practice.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Vorlesung/Vorlesung.iml" filepath="$PROJECT_DIR$/Vorlesung/Vorlesung.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Zeiterfassung/Zeiterfassung.iml" filepath="$PROJECT_DIR$/Zeiterfassung/Zeiterfassung.iml" />
+      <module fileurl="file://$PROJECT_DIR$/practice1/practice1.iml" filepath="$PROJECT_DIR$/practice1/practice1.iml" />
+    </modules>
+  </component>
+</project>
